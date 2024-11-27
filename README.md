@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryantaolong
 - 👀 I’m interested in sports, travel and coding
-- 🌱 I’m currently learning Spring, CSS, JavaScript
+- 🌱 I’m currently learning Spring, CSS, TypeScript
 - 📫 How to reach me bryantaolong@outlook.com
 
 <!---
