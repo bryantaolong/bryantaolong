@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryantaolong
 - 👀 I’m interested in sports, travel and coding
-- 🌱 I’m currently learning docker and Django
+- 🌱 I’m currently learning docker Spring, CSS, JavaScript
 - 📫 How to reach me bryantaolong@outlook.com
 
 <!---
