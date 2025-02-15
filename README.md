@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryantaolong
 - 👀 I’m interested in sports, travel and coding
-- 🌱 I’m currently learning Java and Spring
+- 🌱 I’m currently learning Spring cloud, C/C++ and Python
 - 📫 How to reach me bryantaolong@outlook.com
 
 <!---
