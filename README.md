@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryantaolong
 - 👀 I’m interested in sports, travel and coding
-- 🌱 I’m currently learning Distributed System, C/C++ and Python
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me bryantaolong@outlook.com
 
 <!---
