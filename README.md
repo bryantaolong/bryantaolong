@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryantaolong
 - 👀 I’m interested in sports, travel and coding
-- 🌱 I’m currently learning AI, CS
+- 🌱 I’m currently learning CS, AI
 - 📫 How to reach me bryantaolong@outlook.com
 
 <!---
