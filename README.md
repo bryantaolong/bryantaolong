@@ -75,8 +75,6 @@ When I'm not immersed in coding, I enjoy:
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantaolong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.demolab.com?user=bryantaolong&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
 </div>
 
 ## 🤝 Let's Connect!
