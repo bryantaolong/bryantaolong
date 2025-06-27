@@ -1,4 +1,4 @@
-# Hi there, I'm Bryant! 👋
+# Hi there, I'm Bryan! 👋
 
 <div align="center">
   
