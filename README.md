@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Competition+Winner;Always+learning+new+things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Competition+Winner;AI+%26+ML+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
   
 </div>
 
@@ -12,6 +12,7 @@
 - 🏆 **Blue Bridge Cup Provincial First Prize Winner** in algorithm competitions
 - 🌱 Currently diving deep into **Computer Science & AI**
 - 💡 Love building scalable web applications and solving complex problems
+- 🤖 Exploring the fascinating world of **Machine Learning** and **AI**
 - 🏃‍♂️ When not coding, you'll find me running through the city or hitting the gym
 - 📧 Reach me at: **bryantaolong@outlook.com**
 
@@ -33,8 +34,12 @@
 
 ### Frontend Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### AI & Machine Learning
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,27 +51,30 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
 - 🥇 **Blue Bridge Cup Algorithm Competition - Provincial First Prize**
 - 💻 Full-stack development expertise with modern frameworks
 - 🔧 Proficient in building scalable web applications
+- 🤖 Experienced in AI/ML model development and deployment
 
 ## 🎵 Beyond Code
 
 When I'm not immersed in coding, I enjoy:
 
-- 🏃‍♂️ **Running** - City runs and casual jogging
-- 💪 **Fitness** - Staying active and healthy
-- 🎬 **Video Editing** - Using OBS Studio and DaVinci Resolve 19
+- 🏃‍♂️ **Running** - City runs and casual jogging, training for marathons
+- 💪 **Fitness** - Staying active and healthy, regular gym sessions
+- 🎬 **Video Editing** - Creating content with OBS Studio and DaVinci Resolve 19
 - 🎵 **Music** - Listening to Taylor Swift, Imagine Dragons, OneRepublic
+- 📚 **Reading** - Tech blogs, AI research papers, and self-improvement books
 
 ## 📊 GitHub Stats
 
@@ -76,7 +84,17 @@ When I'm not immersed in coding, I enjoy:
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantaolong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryantaolong&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
 </div>
+
+## 🌟 Featured Projects
+
+Coming soon... I'm currently working on some exciting projects involving:
+- 🤖 AI-powered web applications
+- 🔥 Full-stack development with modern frameworks
+- 📱 Mobile applications with innovative features
+- 🎯 Algorithm optimization and data structures
 
 ## 🤝 Let's Connect!
 
@@ -91,8 +109,18 @@ When I'm not immersed in coding, I enjoy:
 
 <div align="center">
   
-  💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  💡 *"The only way to do great work is to love what you do."* – Steve Jobs
   
   ⭐️ **If you find my repositories interesting, don't forget to star them!**
+  
+  🚀 **Always open to collaborating on interesting projects!**
+  
+</div>
+
+## 📈 Visitor Count
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=bryantaolong&style=for-the-badge&color=brightgreen)
   
 </div>
