@@ -64,7 +64,6 @@
 - 🥇 **Blue Bridge Cup Algorithm Competition - Provincial First Prize**
 - 💻 Full-stack development expertise with modern frameworks
 - 🔧 Proficient in building scalable web applications
-- 🤖 Experienced in AI/ML model development and deployment
 
 ## 🎵 Beyond Code
 
