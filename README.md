@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bryan (bryantaolong)
+# 👋 Hi, I’m Bryan
 
 <div align="center">
   
