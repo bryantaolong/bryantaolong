@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Bryan (bryantaolong)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Competition+Winner;AI+%26+ML+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Algorithm+Competition+Winner;AI+%26+ML+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
