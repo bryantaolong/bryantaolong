@@ -95,10 +95,10 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bryantaolong&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantaolong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryantaolong&theme=radical&hide_border=true" alt="Streak Stats" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bryantaolong&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantaolong&layout=compact&theme=radical&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryantaolong&theme=radical&hide_border=true)
 
 </div>
 
