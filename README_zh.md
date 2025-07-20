@@ -36,7 +36,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 前端开发
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,7 +51,7 @@
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=for-the-badge&logo=apache&logoColor=white)
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Seata](https://img.shields.io/badge/Seata-16A085?style=for-the-badge&logo=docker&logoColor=white)
+![Seata](https://img.shields.io/badge/Seata-16A085?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 数据库与中间件
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
