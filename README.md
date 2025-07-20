@@ -50,10 +50,10 @@
 
 
 ### ☁️ Microservices / Cloud Native
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Nacos](https://img.shields.io/badge/Nacos-00B5F1?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=for-the-badge&logo=apache&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Seata](https://img.shields.io/badge/Seata-16A085?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 💾 Databases & Middleware
