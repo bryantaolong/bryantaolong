@@ -28,7 +28,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -41,6 +40,7 @@
 
 ### 🌐 Frontend Development
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -49,6 +49,7 @@
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
 ### ☁️ Microservices / Cloud Native
+
 ![Nacos](https://img.shields.io/badge/Nacos-00B5F1?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=for-the-badge&logo=apache&logoColor=white)
@@ -85,14 +86,17 @@
 ## 🌟 Featured Projects
 
 ### 🔗 Platform-Vue (Frontend Admin Panel)
+
 - 🌐 Vue 3 + Vite + Element Plus + Pinia
 - 🔧 Modular architecture, routing guard, markdown editor, charts, auth
 
 ### 🚀 Platform-Java (Spring Boot Backend)
+
 - 🔐 Spring Security, JWT, MongoDB, Redis, RESTful APIs
 - 📦 Modules: user, post, comment, search, analytics, messaging
 
 ### 📱 Platform-Android (Mobile App)
+
 - ☁️ Kotlin, SQLite, Retrofit, MVVM
 - 🤝 Integrated with backend for real-time post feed, chat, auth
 
