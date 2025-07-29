@@ -45,17 +45,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=black)
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
 ### ☁️ 微服务 / 云原生
 
 ![Nacos](https://img.shields.io/badge/Nacos-00B5F1?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=for-the-badge&logo=apache&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Seata](https://img.shields.io/badge/Seata-16A085?style=for-the-badge&logo=apache&logoColor=white)
+![Seata](https://img.shields.io/badge/Seata-16A085?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ### 数据库与中间件
 
@@ -64,7 +62,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-AE2C2C?style=for-the-badge&logo=apache&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-B22222?style=for-the-badge&logo=apache&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=for-the-badge&logo=kibana&logoColor=white)
 
@@ -76,7 +74,7 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-FF7F50?style=for-the-badge&logo=fluentd&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-20B2AA?style=for-the-badge&logo=whale&logoColor=white)
 
 ### 操作系统
 
