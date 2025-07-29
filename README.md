@@ -63,8 +63,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-AE2C2C?style=for-the-badge&logo=apache&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=for-the-badge&logo=kibana&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
