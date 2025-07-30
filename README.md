@@ -182,4 +182,4 @@
 
 </div>
 
-[中文请见这里 (Chinese README here)](./README_zh-CN.md)
+[中文请见这里 (Chinese README here)](./README_zh.md)
