@@ -85,20 +85,39 @@
 
 ## 🌟 Featured Projects
 
-### 🔗 Platform-Vue (Frontend Admin Panel)
+### ✨ User‑System (User Identity & Permission Demo)
+
+- **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT;  
+  Built with MyBatis for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
+
+### 🧠 DeepSeek‑CLI (Command‑Line AI Assitant)
+
+- **deepseek-cli**: A CLI tool interfacing with DeepSeek V3/R1 models for command-line AI usage. 
+
+### 🔧 Platform (Full‑stack Web + Backend + Mobile)
+
+#### 🔗 Platform-Vue (Frontend Admin Panel)
 
 - 🌐 Vue 3 + Vite + Element Plus + Pinia
 - 🔧 Modular architecture, routing guard, markdown editor, charts, auth
 
-### 🚀 Platform-Java (Spring Boot Backend)
+#### 🚀 Platform-Java (Spring Boot Backend)
 
 - 🔐 Spring Security, JWT, MongoDB, Redis, RESTful APIs
 - 📦 Modules: user, post, comment, search, analytics, messaging
 
-### 📱 Platform-Android (Mobile App)
+#### 📱 Platform-Android (Mobile App)
 
 - ☁️ Kotlin, SQLite, Retrofit, MVVM
 - 🤝 Integrated with backend for real-time post feed, chat, auth
+
+### ✅ Quick Comparison Table
+
+| Project | Tech & Highlights |
+|--------|--------------------|
+| **User‑System** | Comprehensive user/role/permission management system with authentication, caching |
+| **DeepSeek‑CLI** | CLI tool integrated with DeepSeek V3/R1 models |
+| **Platform** | Vue frontend + Spring Boot backend + Kotlin Android app, modular services, cross-stack collaboration |
 
 > ✅ More coming soon... check pinned repos!
 
