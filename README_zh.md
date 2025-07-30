@@ -169,3 +169,5 @@
 🚀 一起合作，一起成长！
 
 </div>
+
+[English README here (英文版 README 见此处)](./README.md)

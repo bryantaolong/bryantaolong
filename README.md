@@ -181,3 +181,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=bryantaolong&style=for-the-badge&color=brightgreen)
 
 </div>
+
+[中文请见这里 (Chinese README here)](./README_zh-CN.md)
