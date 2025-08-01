@@ -39,6 +39,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=apache&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-1C1C1C?style=for-the-badge&logo=go&logoColor=white)
 
 ### 前端开发
 
