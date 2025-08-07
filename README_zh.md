@@ -79,7 +79,8 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-20B2AA?style=for-the-badge&logo=whale&logoColor=white)
+![DeepSeek AI](https://img.shields.io/badge/DeepSeek_AI-007BFF?style=for-the-badge&logo=whale&logoColor=white)
+![MOONSHOT AI](https://img.shields.io/badge/MOONSHOT%20AI-000000?style=for-the-badge&logo=moon&logoColor=white)
 
 ### 操作系统
 
