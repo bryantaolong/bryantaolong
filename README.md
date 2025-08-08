@@ -70,19 +70,11 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=flat&logo=kibana&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🖥️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![DeepSeek AI](https://img.shields.io/badge/DeepSeek_AI-007BFF?style=flat&logo=whale&logoColor=white)
-![Moonshot AI](https://img.shields.io/badge/MOONSHOT%20AI-000000?style=flat&logo=moon&logoColor=white)
-
-### 🖥️ Operating Systems
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
