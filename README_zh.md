@@ -80,7 +80,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![DeepSeek AI](https://img.shields.io/badge/DeepSeek_AI-007BFF?style=flat&logo=whale&logoColor=white)
-![MOONSHOT AI](https://img.shields.io/badge/MOONSHOT%20AI-000000?style=flat&logo=moon&logoColor=white)
+![Moonshot AI](https://img.shields.io/badge/MOONSHOT%20AI-000000?style=flat&logo=moon&logoColor=white)
 
 ### 操作系统
 
