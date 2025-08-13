@@ -122,7 +122,6 @@
 
 - 🏃‍♂️ **跑步** — 城市慢跑，挑战马拉松  
 - 💪 **健身** — 规律锻炼，注重身心健康  
-- 🎬 **视频剪辑** — 使用 OBS Studio & DaVinci Resolve 制作内容  
 - 🎵 **音乐爱好者** — 喜欢 Taylor Swift、Imagine Dragons、OneRepublic  
 - 📚 **阅读习惯** — AI 研究论文、自我提升类书籍、技术博客
 
