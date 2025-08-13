@@ -145,7 +145,6 @@
 
 - 🏃‍♂️ **Running** — Marathon training & city jogging  
 - 💪 **Fitness** — Consistent gymgoer and health-focused lifestyle  
-- 🎬 **Video Editing** — DaVinci Resolve 19 & OBS Studio  
 - 🎧 **Music** — Taylor Swift, Imagine Dragons, OneRepublic  
 - 📖 **Reading** — Research papers, productivity books, tech blogs
 
