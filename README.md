@@ -105,7 +105,7 @@
 
 #### 📱 Platform-Android (Mobile App)
 
-- ☁️ Kotlin, SQLite, Retrofit, MVVM
+- ☁️ Java, SQLite, Retrofit, MVVM
 - 🤝 Integrated with backend for real-time post feed, chat, auth
 
 ### ✅ Quick Comparison Table
@@ -114,7 +114,7 @@
 |--------|--------------------|
 | **User‑System** | Comprehensive user/role/permission management system with authentication, caching |
 | **DeepSeek‑CLI** | CLI tool integrated with DeepSeek V3/R1 models |
-| **Platform** | Vue frontend + Spring Boot backend + Kotlin Android app, modular services, cross-stack collaboration |
+| **Platform** | Vue frontend + Spring Boot backend + Java Android app, modular services, cross-stack collaboration |
 
 > ✅ More coming soon... check pinned repos!
 
