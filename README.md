@@ -12,7 +12,7 @@
 
 - 🎯 **Full‑stack Developer** with a passion for scalable web applications & backend systems  
 - 🏆 **Blue Bridge Cup** Algorithm Competition - *Provincial First Prize*  
-- 🤖 Focused on **AI/ML**, **algorithmic problem solving**, and **clean architecture**  
+- 🤖 Focused on **clean architecture**, and **algorithmic problem solving**
 - 🛠️ Proficient in both frontend and backend stacks across various platforms  
 - 🏃‍♂️ Love running marathons, editing videos, and lifting at the gym  
 - 📫 Reach me at: **bryantaolong@outlook.com**
