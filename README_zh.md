@@ -85,7 +85,7 @@
 
 ### ✨ User‑System (用户身份系统 Demo)
 
-- 🧩 **user-system**：Spring Boot 搭建的用户系统示例，包含用户注册、登录、权限控制、角色管理，并集成 Spring Security + JWT 保障认证与授权安全；使用 MyBatis/Spring Data JPA 访问数据库，并结合 Redis 缓存会话。可基于系统构建单体/分布式后台服务。
+- ⚙️ **user-system**：Spring Boot 搭建的用户系统示例，包含用户注册、登录、权限控制、角色管理，并集成 Spring Security + JWT 保障认证与授权安全；使用 MyBatis/Spring Data JPA 访问数据库，并结合 Redis 缓存会话。可基于系统构建单体/分布式后台服务。
 - 🧩 **user-system-go**（Golang 用户系统实现）：使用 Go 语言构建的轻量级 用户身份管理系统基于 Gin 框架 和 JWT 鉴权机制 实现模块化结构设计，提供 RESTful API、PostgreSQL 数据持久化，与 Java 实现版本功能一致。
   
 
