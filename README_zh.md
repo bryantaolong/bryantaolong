@@ -96,7 +96,7 @@
 ### 🔧 Platform (综合平台项目 — 前端 + 后端 + 移动端)
 - 🔐 **Platform-Java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
 - 🌐 **Platform-Vue**：Vue 3 + Vite + Element Plus 构建的管理平台，支持权限控制、内容管理、富文本、图表展示  
-- 📱 **Platform-Android**：Kotlin 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
+- 📱 **Platform-Android**：Java 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
 - 🤖 **AI Chat 功能**：集成 AI 对话接口，支持上下文聊天、Markdown 渲染、角色设定等功能
 
 ## 🌟 项目特点对比
@@ -105,7 +105,7 @@
 |------|------------|
 | **User‑System** | 完整用户权限体系，结合 Redis 缓存、安全认证框架设计 |
 | **DeepSeek‑CLI** | CLI 工具接入 DeepSeek V3/R1 模型 |
-| **Platform** | 前端 Vue + 后端 Spring Boot + 移动端 Kotlin，支持微服务架构与多端协作 |
+| **Platform** | 前端 Vue + 后端 Spring Boot + 移动端 Java，支持微服务架构与多端协作 |
 
 ---
 
