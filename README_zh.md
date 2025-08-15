@@ -87,11 +87,6 @@
 
 - ⚙️ **user-system**：Spring Boot 搭建的用户系统示例，包含用户注册、登录、权限控制、角色管理，并集成 Spring Security + JWT 保障认证与授权安全；使用 MyBatis/Spring Data JPA 访问数据库，并结合 Redis 缓存会话。可基于系统构建单体/分布式后台服务。
 - 🧩 **user-system-go**（Golang 用户系统实现）：使用 Go 语言构建的轻量级 用户身份管理系统基于 Gin 框架 和 JWT 鉴权机制 实现模块化结构设计，提供 RESTful API、PostgreSQL 数据持久化，与 Java 实现版本功能一致。
-  
-
-### 🧠 DeepSeek‑CLI (命令行 AI 助手)
-
-- **deepseek-cli**：一个 CLI 工具，与 DeepSeek V3/R1 模型对接，实现命令行界面 AI 对话。
 
 ### 🔧 Platform (综合平台项目 — 前端 + 后端 + 移动端)
 - 🔐 **Platform-Java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
@@ -99,13 +94,17 @@
 - 📱 **Platform-Android**：Java 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
 - 🤖 **AI Chat 功能**：集成 AI 对话接口，支持上下文聊天、Markdown 渲染、角色设定等功能
 
+### 🧠 DeepSeek‑CLI (命令行 AI 助手)
+
+- **deepseek-cli**：一个 CLI 工具，与 DeepSeek V3/R1 模型对接，实现命令行界面 AI 对话。
+
 ## 🌟 项目特点对比
 
 | 项目 | 技术与亮点 |
 |------|------------|
 | **User‑System** | 完整用户权限体系，结合 Redis 缓存、安全认证框架设计 |
-| **DeepSeek‑CLI** | CLI 工具接入 DeepSeek V3/R1 模型 |
 | **Platform** | 前端 Vue + 后端 Spring Boot + 移动端 Java，支持微服务架构与多端协作 |
+| **DeepSeek‑CLI** | CLI 工具接入 DeepSeek V3/R1 模型 |
 
 ---
 
