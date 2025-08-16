@@ -53,7 +53,6 @@
 ![Nacos](https://img.shields.io/badge/Nacos-00B5F1?style=flat&logo=alibabacloud&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=flat&logo=alibabacloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Seata](https://img.shields.io/badge/Seata-16A085?style=flat&logo=alibabacloud&logoColor=white)
 
@@ -63,11 +62,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![etcd](https://img.shields.io/badge/etcd-2383C5?style=flat&logo=etcd&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=flat&logo=apache&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=flat&logo=kibana&logoColor=white)
 
 ### 🖥️ Tools & Platforms
 
