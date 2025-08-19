@@ -48,14 +48,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white)
 
-### ☁️ Microservices / Cloud Native
-
-![Nacos](https://img.shields.io/badge/Nacos-00B5F1?style=flat&logo=alibabacloud&logoColor=white)
-![Spring Cloud OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat&logo=spring&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel-FB542B?style=flat&logo=alibabacloud&logoColor=white)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat&logo=spring&logoColor=white)
-![Seata](https://img.shields.io/badge/Seata-16A085?style=flat&logo=alibabacloud&logoColor=white)
-
 ### 💾 Databases & Middleware
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
