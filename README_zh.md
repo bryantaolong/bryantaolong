@@ -76,6 +76,10 @@
 - ⚙️ **user-system**：Spring Boot 搭建的用户系统示例，包含用户注册、登录、权限控制、角色管理，并集成 Spring Security + JWT 保障认证与授权安全；使用 MyBatis/Spring Data JPA 访问数据库，并结合 Redis 缓存会话。可基于系统构建单体/分布式后台服务。
 - 🧩 **user-system-go**（Golang 用户系统实现）：使用 Go 语言构建的轻量级 用户身份管理系统基于 Gin 框架 和 JWT 鉴权机制 实现模块化结构设计，提供 RESTful API、GORM 数据持久化，与 Java 实现版本功能一致。
 
+### 🥊 Combo (命令行待办事项管理器)
+
+- **combo**：一个用 Go 语言编写的命令行待办事项管理器，支持分组管理、任务跟踪、标记完成，并通过颜色编码输出清晰区分任务状态。
+
 ### 🔧 Platform (综合平台项目 — 前端 + 后端 + 移动端)
 - 🔐 **Platform-Java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
 - 🌐 **Platform-Vue**：Vue 3 + Vite + Element Plus 构建的管理平台，支持权限控制、内容管理、富文本、图表展示  
@@ -91,6 +95,7 @@
 | 项目 | 技术与亮点 |
 |------|------------|
 | **User‑System** | 完整用户权限体系，结合 Redis 缓存、安全认证框架设计 |
+| **Combo** | 基于 Go 的命令行待办事项管理器，支持任务分组、完成状态跟踪，并通过颜色编码清晰区分任务状态 |
 | **Platform** | 前端 Vue + 后端 Spring Boot + 移动端 Java，支持微服务架构与多端协作 |
 | **DeepSeek‑CLI** | CLI 工具接入 DeepSeek V3/R1 模型 |
 
