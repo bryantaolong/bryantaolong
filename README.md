@@ -75,19 +75,23 @@
 - ⚙️ **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT; Built with MyBatis/Spring Data JPA for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
 - 🧩 **user-system-go** (Golang Version of User System) A lightweight user identity management system written in Go Built with Gin framework and JWT-based authentication Modular structure with RESTful APIs, GORM persistence, the same core features as the Java version but with Golang idioms.
 
+### 🥊 Combo (Command‑Line Todo List Manager)
+
+- **combo**: A command-line todo list manager written in Go, featuring task grouping, completion tracking, and color-coded output for clear task status differentiation.
+
 ### 🔧 Platform (Full‑stack Web + Backend + Mobile)
 
-#### 🔗 Platform-Vue (Frontend Admin Panel)
+**🔗 Platform-Vue (Frontend Admin Panel)**
 
 - 🌐 Vue 3 + Vite + Element Plus + Pinia
 - 🔧 Modular architecture, routing guard, markdown editor, charts, auth
 
-#### 🚀 Platform-Java (Spring Boot Backend)
+**🚀 Platform-Java (Spring Boot Backend)**
 
 - 🔐 Spring Security, JWT, MongoDB, Redis, RESTful APIs
 - 📦 Modules: user, post, comment, search, analytics, messaging
 
-#### 📱 Platform-Android (Mobile App)
+**📱 Platform-Android (Mobile App)**
 
 - ☁️ Java, SQLite, Retrofit, MVVM
 - 🤝 Integrated with backend for real-time post feed, chat, auth
@@ -96,11 +100,12 @@
 
 - **deepseek-cli**: A CLI tool interfacing with DeepSeek V3/R1 models for command-line AI usage. 
 
-### ✅ Quick Comparison Table
+### 🌟 Quick Comparison Table
 
 | Project | Tech & Highlights |
 |--------|--------------------|
 | **User‑System** | Comprehensive user/role/permission management system with authentication, caching |
+| **Combo**       | Command-line todo list manager written in Go, featuring task grouping, completion tracking, and color-coded output for clear task status differentiation |
 | **Platform** | Vue frontend + Spring Boot backend + Java Android app, modular services, cross-stack collaboration |
 | **DeepSeek‑CLI** | CLI tool integrated with DeepSeek V3/R1 models |
 
