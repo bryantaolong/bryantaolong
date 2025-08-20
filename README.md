@@ -81,20 +81,20 @@
 
 ### 🔧 Platform (Full‑stack Web + Backend + Mobile)
 
-**🔗 Platform-Vue (Frontend Admin Panel)**
+- **🔗 Platform-Vue (Frontend Admin Panel)**
 
-- 🌐 Vue 3 + Vite + Element Plus + Pinia
-- 🔧 Modular architecture, routing guard, markdown editor, charts, auth
+  - 🌐 Vue 3 + Vite + Element Plus + Pinia
+  - 🔧 Modular architecture, routing guard, markdown editor, charts, auth
 
-**🚀 Platform-Java (Spring Boot Backend)**
+- **🚀 Platform-Java (Spring Boot Backend)**
 
-- 🔐 Spring Security, JWT, MongoDB, Redis, RESTful APIs
-- 📦 Modules: user, post, comment, search, analytics, messaging
+  - 🔐 Spring Security, JWT, MongoDB, Redis, RESTful APIs
+  - 📦 Modules: user, post, comment, search, analytics, messaging
 
-**📱 Platform-Android (Mobile App)**
+- **📱 Platform-Android (Mobile App)**
 
-- ☁️ Java, SQLite, Retrofit, MVVM
-- 🤝 Integrated with backend for real-time post feed, chat, auth
+  - ☁️ Java, SQLite, Retrofit, MVVM
+  - 🤝 Integrated with backend for real-time post feed, chat, auth
 
 ### 🧠 DeepSeek‑CLI (Command‑Line AI Assitant)
 
