@@ -81,17 +81,17 @@
 
 ### 🔧 Platform (Full‑stack Web + Backend + Mobile)
 
-- **🔗 Platform-Vue (Frontend Admin Panel)**
+- **🔗 platform-vue (Frontend Admin Panel)**
 
   - 🌐 Vue 3 + Vite + Element Plus + Pinia
   - 🔧 Modular architecture, routing guard, markdown editor, charts, auth
 
-- **🚀 Platform-Java (Spring Boot Backend)**
+- **🚀 platform-java (Spring Boot Backend)**
 
   - 🔐 Spring Security, JWT, MongoDB, Redis, RESTful APIs
   - 📦 Modules: user, post, comment, search, analytics, messaging
 
-- **📱 Platform-Android (Mobile App)**
+- **📱 platform-android (Mobile App)**
 
   - ☁️ Java, SQLite, Retrofit, MVVM
   - 🤝 Integrated with backend for real-time post feed, chat, auth
