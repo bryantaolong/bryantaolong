@@ -36,7 +36,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat&logo=apache&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-1C1C1C?style=flat&logo=go&logoColor=white)
@@ -72,7 +71,7 @@
 
 ### ✨ User‑System (User Identity & Permission Demo)
 
-- ⚙️ **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT; Built with MyBatis/Spring Data JPA for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
+- ⚙️ **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT; Built with MyBatis for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
 - 🧩 **user-system-go** (Golang Version of User System) A lightweight user identity management system written in Go Built with Gin framework and JWT-based authentication Modular structure with RESTful APIs, GORM persistence, the same core features as the Java version but with Golang idioms.
 
 ### 🥊 Combo (Command‑Line Todo List Manager)
