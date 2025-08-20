@@ -81,9 +81,9 @@
 - **combo**：一个用 Go 语言编写的命令行待办事项管理器，支持分组管理、任务跟踪、标记完成，并通过颜色编码输出清晰区分任务状态。
 
 ### 🔧 Platform (综合平台项目 — 前端 + 后端 + 移动端)
-- 🔐 **Platform-Java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
-- 🌐 **Platform-Vue**：Vue 3 + Vite + Element Plus 构建的管理平台，支持权限控制、内容管理、富文本、图表展示  
-- 📱 **Platform-Android**：Java 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
+- 🔐 **platform-java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
+- 🌐 **platform-vue**：Vue 3 + Vite + Element Plus 构建的管理平台，支持权限控制、内容管理、富文本、图表展示  
+- 📱 **platform-android**：Java 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
 - 🤖 **AI Chat 功能**：集成 AI 对话接口，支持上下文聊天、Markdown 渲染、角色设定等功能
 
 ### 🧠 DeepSeek‑CLI (命令行 AI 助手)
