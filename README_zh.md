@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 技术栈
+##  技术栈
 
 ### 编程语言
 
@@ -32,7 +32,7 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
 
-### 后端开发
+### ⚙️ 后端开发
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -47,7 +47,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white)
 
-### 📱移动端开发
+### 📱 移动端开发
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
@@ -56,7 +56,7 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-FF7800?style=flat&logo=openjdk&logoColor=white)
 
-### 数据库与中间件
+### 💾 数据库与中间件
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -65,7 +65,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=flat&logo=apache&logoColor=white)
 
-### 💻 开发工具与平台
+### 🔧 开发工具与平台
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -85,7 +85,7 @@
 
 - **combo**：一个用 Go 语言编写的命令行待办事项管理器，支持分组管理、任务跟踪、标记完成，并通过颜色编码输出清晰区分任务状态。
 
-### 🔧 Platform (综合平台项目 — 前端 + 后端 + 移动端)
+### 🖥️ Platform (综合平台项目 — 前端 + 后端 + 移动端)
 - 🔐 **platform-java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
 - 🌐 **platform-vue**：Vue 3 + Vite + Element Plus 构建的管理平台，支持权限控制、内容管理、富文本、图表展示  
 - 📱 **platform-android**：Java 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
