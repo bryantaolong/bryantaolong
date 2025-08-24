@@ -84,7 +84,7 @@
 
 - **combo**: A command-line todo list manager written in Go, featuring task grouping, completion tracking, and color-coded output for clear task status differentiation.
 
-### 🔧 Platform (Full‑stack Web + Backend + Mobile)
+### 🖥️ Platform (Full‑stack Web + Backend + Mobile)
 
 - **🔗 platform-vue (Frontend Admin Panel)**
 
