@@ -20,9 +20,9 @@
 
 ---
 
-##  技术栈
+##   🧰 技术栈
 
-### 编程语言
+###  💻 编程语言
 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
@@ -41,7 +41,7 @@
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-1C1C1C?style=flat&logo=go&logoColor=white)
 
-### 前端开发
+### 🌐 前端开发
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
