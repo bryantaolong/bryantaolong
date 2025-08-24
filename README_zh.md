@@ -53,7 +53,6 @@
 
 ### 🖥️ 桌面端开发
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-FF7800?style=flat&logo=openjdk&logoColor=white)
 
 ### 💾 数据库与中间件
