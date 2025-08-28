@@ -51,6 +51,7 @@
 ### 📱 Mobile Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
 ### 🖥️ Desktop Development
 
