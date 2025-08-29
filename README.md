@@ -55,6 +55,7 @@
 
 ### 🖥️ Desktop Development
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-FF7800?style=flat&logo=openjdk&logoColor=white)
 
 ### 💾 Databases & Middleware
