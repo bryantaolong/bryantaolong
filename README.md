@@ -130,7 +130,7 @@
 
 - 🏃‍♂️ **Running** — Marathon training & city jogging  
 - 💪 **Fitness** — Consistent gymgoer and health-focused lifestyle  
-- 🎧 **Music** — Taylor Swift, Imagine Dragons, OneRepublic  
+- 🎧 **Music** — Imagine Dragons, OneRepublic  
 - 📖 **Reading** — Research papers, productivity books, tech blogs
 
 ---
