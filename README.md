@@ -62,13 +62,12 @@
 ## 🌟 Featured Projects
 
 ### ✨ User‑System (User Identity & Permission Demo)
-
+> A blueprint for modern Auth/AuthZ across different ecosystems.
 - ⚙️ **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT; Built with MyBatis for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
 - 🧩 **user-system-go** (Golang Version of User System) A lightweight user identity management system written in Go Built with Gin framework and JWT-based authentication Modular structure with RESTful APIs, GORM persistence, the same core features as the Java version but with Golang idioms.
 
-### 🖥️ Platform (Social Platform Project)
-
-A modern full-stack web ecosystem built for scale and performance.
+### 🖥️ Platform — (Next-Gen Social Ecosystem)
+> A high-performance full-stack social platform designed for scalability.
 - **Backend**: Spring Boot 3.5.4, Spring Security (RBAC + JWT), PostgreSQL 17, Redis.
 - **Frontend**: Vue 3 (Composition API), Vite, Pinia, Element Plus.
 - **Key Features**: Comprehensive social graph (Follow/Unfollow), post lifecycle management with audit workflows, custom collection folders, and high-speed data export using EasyExcel.
