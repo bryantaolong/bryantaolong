@@ -1,28 +1,27 @@
-# 你好，我是 Bryan！👋
+# 👋 你好，我是 Bryan！
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=全栈开发者;算法竞赛获奖者;AI+%26+ML+爱好者;永远在学习新技术)](https://git.io/typing-svg)
-  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=全栈开发者;算法竞赛获奖者;AI+%26+ML+爱好者;持续学习者)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
 ## 🚀 关于我
 
-- 🎯 **热情的开发者**，专注于全栈开发与算法竞赛  
-- 🏆 **蓝桥杯算法竞赛省赛一等奖** 获得者  
-- 🌱 正在深入学习 **计算机科学与人工智能**  
-- 💡 热爱构建可扩展的 Web 应用，乐于解决复杂问题  
-- 🤖 探索 **计算机科学** 与 **AI 应用** 的无限可能  
-- 🏃‍♂️ 不写代码时，常在城市中跑步或健身  
-- 📧 联系我：**bryantaolong@outlook.com**
+- 🎯 **全栈开发者**，热衷于构建可扩展的 Web 应用与后端系统
+- 🏆 **蓝桥杯** 全国软件和信息技术专业人才大赛 - **省赛一等奖**
+- 🤖 专注于 **整洁架构 (Clean Architecture)** 与 **算法问题解决**
+- 🛠️ 精通多种平台的编程语言与前后端技术栈
+- 🏃‍♂️ 热爱马拉松跑步、视频剪辑以及在健身房撸铁
+- 📫 联系我：**bryantaolong@outlook.com**
 
 ---
 
-##   🧰 技术栈
+## 🧰 技术栈
 
-###  💻 编程语言
+### 💻 编程语言
 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
@@ -48,7 +47,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-### 🔧 开发平台与工具
+### 🔧 工具与平台
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
@@ -62,54 +61,41 @@
 
 ## 🌟 精选项目
 
-### ✨ User‑System (用户身份系统 Demo)
+### ✨ User‑System (用户身份与权限演示)
 
-- ⚙️ **user-system**：Spring Boot 搭建的用户系统示例，包含用户注册、登录、权限控制、角色管理，并集成 Spring Security + JWT 保障认证与授权安全；使用 MyBatis 访问数据库，并结合 Redis 缓存会话。可基于系统构建单体/分布式后台服务。
-- 🧩 **user-system-go**（Golang 用户系统实现）：使用 Go 语言构建的轻量级 用户身份管理系统基于 Gin 框架 和 JWT 鉴权机制 实现模块化结构设计，提供 RESTful API、GORM 数据持久化，与 Java 实现版本功能一致。
+- ⚙️ **user-system**: 基于 Spring Boot 的用户身份管理 Demo。集成 Spring Security + JWT 实现注册、登录及基于角色的权限控制；使用 MyBatis 处理数据库操作，Redis 进行会话缓存。旨在作为大型后端平台的通用基础模块。
+- 🧩 **user-system-go**: 用户系统的 Golang 版本。基于 Gin 框架和 JWT 鉴权构建，采用模块化设计和 RESTful API，使用 GORM 进行持久化，在保持 Go 语言特性的同时实现与 Java 版核心功能的一致。
+
+### 🖥️ Platform (社交平台项目)
+
+为高性能和大规模扩展设计的现代全栈 Web 生态系统。
+- **后端**: Spring Boot 3.5.4, Spring Security (RBAC + JWT), PostgreSQL 17, Redis。
+- **前端**: Vue 3 (Composition API), Vite, Pinia, Element Plus。
+- **核心功能**: 完整的社交关系链（关注/取关）、带审核工作流的内容生命周期管理、自定义收藏夹，以及基于 EasyExcel 的高速数据导出。
 
 ### 🥊 Combo (命令行待办事项管理器)
 
-- **combo**：一个用 Go 语言编写的命令行待办事项管理器，支持分组管理、任务跟踪、标记完成，并通过颜色编码输出清晰区分任务状态。
+- **combo**: 使用 Go 语言编写的 CLI 任务管理工具，支持任务分组、完成状态跟踪，并提供颜色编码的输出，确保任务状态一目了然。
 
-### 🖥️ Platform (综合平台项目 — 前端 + 后端 + 移动端)
-- 🔐 **platform-java**：基于 Spring Boot 的后端服务，涵盖用户、文章、评论、关注、搜索等模块  
-- 🌐 **platform-vue**：Vue 3 + Vite + Element Plus 构建的管理平台，支持权限控制、内容管理、富文本、图表展示  
-- 📱 **platform-android**：Java 开发的原生应用，支持文章浏览、评论发布、用户登录等功能  
-- 🤖 **AI Chat 功能**：集成 AI 对话接口，支持上下文聊天、Markdown 渲染、角色设定等功能
+### 🌟 项目快速对比
 
-### 🧠 DeepSeek‑CLI (命令行 AI 助手)
-
-- **deepseek-cli**：一个 CLI 工具，与 DeepSeek V3/R1 模型对接，实现命令行界面 AI 对话。
-
-## 🌟 项目特点对比
-
-| 项目 | 技术与亮点 |
-|------|------------|
-| **User‑System** | 完整用户权限体系，结合 Redis 缓存、安全认证框架设计 |
-| **Combo** | 基于 Go 的命令行待办事项管理器，支持任务分组、完成状态跟踪，并通过颜色编码清晰区分任务状态 |
-| **Platform** | 前端 Vue + 后端 Spring Boot + 移动端 Java，支持微服务架构与多端协作 |
-| **DeepSeek‑CLI** | CLI 工具接入 DeepSeek V3/R1 模型 |
+| 项目 | 技术亮点 |
+|--------|--------------------|
+| **User‑System** | 完整的用户/角色/权限管理，包含认证与多级缓存设计 |
+| **Platform** | 支持大规模扩展的现代全栈生态，涵盖复杂社交逻辑与审计流 |
+| **Combo** | 轻量级 Go 命令行工具，具备任务分组与色彩终端交互 |
 
 ---
 
-## 🏆 成就与荣誉
+## 🏆 成就与亮点
 
-- 🥇 **蓝桥杯算法竞赛 - 省赛一等奖**
-- 💻 精通现代全栈开发框架与组件化架构
-- 🔧 熟练构建高性能、可维护的企业级系统
-
----
-
-## 🎵 代码之外
-
-- 🏃‍♂️ **跑步** — 城市慢跑，挑战马拉松  
-- 💪 **健身** — 规律锻炼，注重身心健康  
-- 🎵 **音乐爱好者** — 喜欢 Imagine Dragons、OneRepublic  
-- 📚 **阅读习惯** — 历史、经济学、人物传记
+- 🥇 **蓝桥杯全国软件和信息技术专业人才大赛 – 省赛一等奖**
+- 📊 具备开发具有实时特性和微服务架构的可扩展平台经验
+- 💻 在算法竞赛和工程实践领域均有深厚积累
 
 ---
 
-## 📊 GitHub 统计
+## 📈 GitHub 统计
 
 <div align="center">
 
@@ -121,12 +107,30 @@
 
 ---
 
-## 🤝 联系我！
+## 🎵 代码之外
+
+- 🏃‍♂️ **跑步** — 马拉松训练与城市慢跑
+- 💪 **健身** — 规律的健身房训练，追求健康的生活方式
+- 🎧 **音乐** — Imagine Dragons, OneRepublic
+- 📖 **阅读** — 历史、经济、人物传记
+
+---
+
+## 🤝 保持联系
 
 <div align="center">
 
-[![邮箱](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryantaolong@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryantaolong@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bryantaolong)
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *"成就伟大事业的唯一途径是热爱你的工作。"* – 史蒂夫·乔布斯  
+🌱 **始终对具有意义的技术项目合作持开放态度！** ⭐️ **如果你喜欢我的项目，欢迎点个 Star。**
 
 </div>
 
@@ -136,18 +140,8 @@
 
 <div align="center">
 
-![访问统计](https://komarev.com/ghpvc/?username=bryantaolong&style=for-the-badge&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=bryantaolong&style=for-the-badge&color=brightgreen)
 
 </div>
 
----
-
-<div align="center">
-
-💡 *"做好工作的唯一方法就是热爱你所做的事情。"* – 史蒂夫·乔布斯  
-⭐️ 如果觉得我的项目有趣，欢迎点个 Star！  
-🚀 一起合作，一起成长！
-
-</div>
-
-[English README here (英文版 README 见此处)](./README.md)
+[English README here (英文 README 见此)](./README.md)
