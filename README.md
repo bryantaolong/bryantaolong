@@ -64,7 +64,6 @@
 ### ✨ User‑System (User Identity & Permission Demo)
 > A blueprint for modern Auth/AuthZ across different ecosystems.
 - ⚙️ **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT; Built with MyBatis for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
-- 🧩 **user-system-go** (Golang Version of User System) A lightweight user identity management system written in Go Built with Gin framework and JWT-based authentication Modular structure with RESTful APIs, GORM persistence, the same core features as the Java version but with Golang idioms.
 
 ### 🖥️ Platform — (Next-Gen Social Ecosystem)
 > A high-performance full-stack social platform designed for scalability.
