@@ -64,7 +64,6 @@
 ### ✨ User‑System (用户身份与权限演示)
 
 - ⚙️ **user-system**: 基于 Spring Boot 的用户身份管理 Demo。集成 Spring Security + JWT 实现注册、登录及基于角色的权限控制；使用 MyBatis 处理数据库操作，Redis 进行会话缓存。旨在作为大型后端平台的通用基础模块。
-- 🧩 **user-system-go**: 用户系统的 Golang 版本。基于 Gin 框架和 JWT 鉴权构建，采用模块化设计和 RESTful API，使用 GORM 进行持久化，在保持 Go 语言特性的同时实现与 Java 版核心功能的一致。
 
 ### 🖥️ Platform (社交平台项目)
 
