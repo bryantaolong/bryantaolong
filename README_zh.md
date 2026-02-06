@@ -19,38 +19,107 @@
 
 ---
 
-## 🧰 技术栈
+<h3 align="left">🧰 语言与工具</h3>
 
-### 💻 编程语言
+<table align="center">
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></a>
+  <!-- Row 1: Core Languages -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/go/000000" width="48" height="48" />
+      <br>Go
+    </td>
+  </tr>
 
-### 🌐 Web 开发
+  <!-- Row 2: Frameworks / Runtime -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/spring/000000" width="48" height="48" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/vite/000000" width="48" height="48" />
+      <br>Vite
+    </td>
+  </tr>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat&logo=apache&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  <!-- Row 3: Data -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/claude/000000" width="48" height="48" />
+      <br>Claude Code
+    </td>
+  </tr>
 
-### 💾 数据库与中间件
+  <!-- Row 4: Tools / OS / AI -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" />
+      <br>Obsidian
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
+      <br>C++
+    </td>
+  </tr>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### 🔧 工具与平台
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</table>
 
 ---
 
