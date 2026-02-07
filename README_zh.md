@@ -23,7 +23,6 @@
 
 <table align="center">
 
-  <!-- Row 1: Core Languages -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
@@ -47,7 +46,6 @@
     </td>
   </tr>
 
-  <!-- Row 2: Frameworks / Runtime -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
@@ -71,7 +69,6 @@
     </td>
   </tr>
 
-  <!-- Row 3: Data -->
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
@@ -95,7 +92,6 @@
     </td>
   </tr>
 
-  <!-- Row 4: Tools / OS / AI -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
@@ -120,14 +116,6 @@
   </tr>
 
 </table>
-
----
-
-## 🏆 成就与亮点
-
-- 🥇 **蓝桥杯全国软件和信息技术专业人才大赛 – 省赛一等奖**
-- 📊 具备开发具有实时特性和微服务架构的可扩展平台经验
-- 💻 在算法竞赛和工程实践领域均有深厚积累
 
 ---
 
