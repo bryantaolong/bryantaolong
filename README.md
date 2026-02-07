@@ -121,33 +121,6 @@
 
 </table>
 
-
-## 🌟 Featured Projects
-
-### ✨ User‑System (User Identity & Permission Demo)
-> A blueprint for modern Auth/AuthZ across different ecosystems.
-- ⚙️ **user-system**: A Spring Boot demo for user identity management, featuring user registration, login, permission and role management, secured by Spring Security + JWT; Built with MyBatis for DB operations, Redis for session caching. Designed as a foundational standalone/distributed module for larger backend platforms.
-
-### 🖥️ Platform — (Next-Gen Social Ecosystem)
-> A high-performance full-stack social platform designed for scalability.
-- **Backend**: Spring Boot 3.5.4, Spring Security (RBAC + JWT), PostgreSQL 17, Redis.
-- **Frontend**: Vue 3 (Composition API), Vite, Pinia, Element Plus.
-- **Key Features**: Comprehensive social graph (Follow/Unfollow), post lifecycle management with audit workflows, custom collection folders, and high-speed data export using EasyExcel.
-
-### 🥊 Combo (Command‑Line Todo List Manager)
-
-- **combo**: A command-line todo list manager written in Go, featuring task grouping, completion tracking, and color-coded output for clear task status differentiation.
-
-### 🌟 Quick Comparison Table
-
-| Project | Tech & Highlights |
-|--------|--------------------|
-| **User‑System** | Comprehensive user/role/permission management system with authentication, caching |
-| **Platform** | A modern full-stack web ecosystem built for scale and performance |
-| **Combo**       | Command-line todo list manager written in Go, featuring task grouping, completion tracking, and color-coded output for clear task status differentiation |
-
-> ✅ More coming soon... check pinned repos!
-
 ---
 
 ## 🏆 Achievements & Highlights
