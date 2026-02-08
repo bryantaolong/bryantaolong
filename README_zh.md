@@ -25,38 +25,42 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/go/000000" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48"/>
       <br>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+      <br>C++
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="48"/>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/spring/000000" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
       <br>Spring
     </td>
     <td align="center" width="96">
@@ -67,19 +71,19 @@
       <img src="https://cdn.simpleicons.org/vite/000000" width="48" height="48" />
       <br>Vite
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" />
+      <br>Nginx
+    </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-      <br>GitHub
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -87,15 +91,27 @@
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/claude/000000" width="48" height="48" />
-      <br>Claude Code
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" />
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" />
+      <br>Kafka
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
-      <br>C
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" />
@@ -110,8 +126,8 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
-      <br>C++
+      <img src="https://cdn.simpleicons.org/claude/000000" width="48" height="48" />
+      <br>Claude Code
     </td>
   </tr>
 
