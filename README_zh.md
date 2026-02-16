@@ -25,12 +25,12 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" />
-      <br>Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48"/>
+      <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
-      <br>Python
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" />
@@ -41,8 +41,8 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48"/>
-      <br>Go
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
