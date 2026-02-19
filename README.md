@@ -72,12 +72,16 @@
       <br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" />
-      <br>Nginx
+      <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" />
+      <br>Obsidian
     </td>
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" />
+      <br>Nginx
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
       <br>PostgreSQL
@@ -91,43 +95,12 @@
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" />
-      <br>Elasticsearch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" />
-      <br>Kafka
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" />
-      <br>Obsidian
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
       <br>VS Code
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
       <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/claude/000000" width="48" height="48" />
-      <br>Claude Code
     </td>
   </tr>
 
