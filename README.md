@@ -1,6 +1,6 @@
 ## About Me
 
-Technology passionate. Using Java for backend, JavaScript/TypeScript for Web dev, C/C++ for algorithm. Love Go(Golang).
+Tech passionate. Love Go(Golang), using JavaScript/TypeSript for Web dev, Python for scripting.
 
 Enjoy running around city, exercise for body health.
 
