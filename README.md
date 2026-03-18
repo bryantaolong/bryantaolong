@@ -2,7 +2,7 @@
 
 Tech passionate. Love Go(Golang), using Vue.js for Web dev, Python for scripting.
 
-Enjoy running around city, exercise for body health.
+Enjoy running, exercise for body health.
 
 Music listener. Listening Imagine Dragons, OneRepublic, Taylor Swift, Ed Sheeran.
 
