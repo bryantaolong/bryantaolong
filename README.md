@@ -8,6 +8,10 @@ Music listener. Listening Imagine Dragons, OneRepublic, Taylor Swift, Ed Sheeran
 
 Reader. Reading books about history, economic, read biography as well.
 
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantaolong&layout=compact&theme=tokyonight)
+
 ## Reach Me
 
 <div align="center">
