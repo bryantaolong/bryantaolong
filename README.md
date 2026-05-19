@@ -1,6 +1,6 @@
 ## About Me
 
-Tech passionate. Love Go(Golang). Python for scripting, Vue.js for Web dev.
+Tech passionate. Using C/C++; love Go(Golang); employ Python for scripting.
 
 Enjoy running, exercise for body health.
 
