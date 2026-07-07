@@ -1,6 +1,6 @@
 ## About Me
 
-Tech passionate. Using C/C++; love Go(Golang); employ Python for scripting.
+Tech passionate. Love Go(Golang); using C# to build things.
 
 Enjoy running, exercise for body health.
 
