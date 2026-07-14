@@ -1,10 +1,10 @@
 ## About Me
 
-Tech passionate. Love Go(Golang); using C# to build things.
+Tech passionate. Love Go(Golang).
 
 Enjoy running, exercise for body health.
 
-Music listener. Listening Imagine Dragons, OneRepublic, Taylor Swift, Ed Sheeran.
+Entertainment music. Listening Imagine Dragons, OneRepublic, Taylor Swift, Ed Sheeran.
 
 Reader. Reading books about history, economic, read biography as well.
 
