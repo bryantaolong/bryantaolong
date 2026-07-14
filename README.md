@@ -4,7 +4,7 @@ Tech passionate. Love Go(Golang).
 
 Enjoy running, exercise for body health.
 
-Entertainment music. Listening Imagine Dragons, OneRepublic, Taylor Swift, Ed Sheeran.
+Entertain music. Listening Imagine Dragons, OneRepublic, Taylor Swift, Ed Sheeran.
 
 Reader. Reading books about history, economic, read biography as well.
 
