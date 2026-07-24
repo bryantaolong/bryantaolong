@@ -1,6 +1,6 @@
 ## About Me
 
-Tech passionate. Love Go(Golang).
+Tech passionate. Love C and Go.
 
 Enjoy running, exercise for body health.
 
